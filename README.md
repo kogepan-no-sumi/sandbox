@@ -1,2 +1,3 @@
-# Sandbox��Readme�t�@�C��
+# SandboxのReadmeファイル
 
+- このリポジトリはSandBoxです。
